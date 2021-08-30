@@ -1,1 +1,2 @@
 myb6-2file.txt
+myb6-2file.txt
